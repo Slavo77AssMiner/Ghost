@@ -1868,10 +1868,19 @@
     utils-copy-error "^1.0.1"
     uuid "^8.3.2"
 
-"@tryghost/errors@1.2.8", "@tryghost/errors@^1.0.0", "@tryghost/errors@^1.1.0", "@tryghost/errors@^1.1.1", "@tryghost/errors@^1.2.1", "@tryghost/errors@^1.2.3", "@tryghost/errors@^1.2.5", "@tryghost/errors@^1.2.7":
+"@tryghost/errors@1.2.8":
   version "1.2.8"
   resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.8.tgz#b4ba1c31831216222be332ee7a37d9c4a376ac2a"
   integrity sha512-O8CUS4SHsBYFc6/7yUDJ5yk0vhcdzPxFiISgrFhzptOd79ZdXwk9c8Pz5uSDUXPaCqKaWMYLTjSof30IxVvvAA==
+  dependencies:
+    lodash "^4.17.21"
+    utils-copy-error "^1.0.1"
+    uuid "^8.3.2"
+
+"@tryghost/errors@1.2.9", "@tryghost/errors@^1.0.0", "@tryghost/errors@^1.1.0", "@tryghost/errors@^1.1.1", "@tryghost/errors@^1.2.1", "@tryghost/errors@^1.2.3", "@tryghost/errors@^1.2.5", "@tryghost/errors@^1.2.7":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.9.tgz#aa071e41c92781665b339918b752b8bd62cd3361"
+  integrity sha512-nrZc2xs7A5UStADDFtO88xndm2qRdX6X6hSaSaBOHvBLa0//dpczctX0nRc1BUfuIYiBGjR32aNeqZoUiZhXCQ==
   dependencies:
     lodash "^4.17.21"
     utils-copy-error "^1.0.1"
